@@ -23,4 +23,4 @@ Take home prompt writing strategies for automation and teamwork
 **Presented by :**
 Sridhar Pai, Data Scientist with over 30+ years tech industry experience 
 
-**Timings :** Oct 5th 2025 4 pm
+**Timings :** Oct 15th 2025 4 pm
